@@ -1,7 +1,7 @@
 # JS(ES6)-Booklist
 
 A simple Javascript book list create with the latest ES6 utilizing local storage.
-View in action [click here](https://jacobwebster.github.io/JSes6-Booklist/)
+View in action [click here](https://jacobwebster.github.io/JSES6-Booklist/)
 
 ## What I used
 - [VS Code](https://code.visualstudio.com/) my text editor of choice
